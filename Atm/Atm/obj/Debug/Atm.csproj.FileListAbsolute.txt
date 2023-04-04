@@ -1,0 +1,8 @@
+C:\Users\99451\Desktop\C#\Atm\Atm\bin\Debug\Atm.exe.config
+C:\Users\99451\Desktop\C#\Atm\Atm\bin\Debug\Atm.exe
+C:\Users\99451\Desktop\C#\Atm\Atm\bin\Debug\Atm.pdb
+C:\Users\99451\Desktop\C#\Atm\Atm\obj\Debug\Atm.csproj.AssemblyReference.cache
+C:\Users\99451\Desktop\C#\Atm\Atm\obj\Debug\Atm.csproj.SuggestedBindingRedirects.cache
+C:\Users\99451\Desktop\C#\Atm\Atm\obj\Debug\Atm.csproj.CoreCompileInputs.cache
+C:\Users\99451\Desktop\C#\Atm\Atm\obj\Debug\Atm.exe
+C:\Users\99451\Desktop\C#\Atm\Atm\obj\Debug\Atm.pdb
